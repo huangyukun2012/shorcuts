@@ -1,0 +1,41 @@
+# .bash_alias
+
+#cd config
+alias co="cd /home/huangyk/os"
+alias ct="cd  /home/huangyk/program/topcodder/"
+alias cl="cd  /home/huangyk/program/leetcode2/"
+alias cq="cd  /home/huangyk/quickstart/"
+alias cor="cd /home/huangyk/program/myos/orange/test"
+alias cb="cd /home/huangyk/.vim/bundle/"
+alias cdd="cd /home/huangyk/doc"
+alias wap="cd /home/huangyk/workspace/China_Intern_C/"
+alias linux="cd /usr/src/kernels/linux-2.6.11.12/"
+alias cnet="cd program/cprogram/linuxProgramming/LinuxC/"
+#netconfig
+alias nn="sudo /home/huangyk/quickstart/netconfig"
+alias pp="ping www.baidu.com"
+alias pg="ping www.google.com"
+
+#sshconfig
+alias hho="ssh huangyukun@10.18.129.102"
+alias hro="ssh root@10.18.129.102"
+alias ssvm1="ssh hyk@10.18.111.100"
+alias ssvm2="ssh hyk@10.18.111.150"
+alias to253="rdesktop -a 32 10.18.11.253 -d OA -u huangyukun -p huangyukun001 -f"
+
+#disk management
+alias mt="sudo mount"
+alias umt="sudo umount"
+alias mto="sudo mount -o loop"
+alias mtn="sudo mount -t ntfs-3g"
+alias vm="sudo virt-manager"
+#
+alias ag="sudo !!"
+alias kvm="sudo virt-manager"
+
+#use very often
+alias ee="exit"
+alias vt="vim -t"
+alias xx="chmod +x"
+
+#git alias
